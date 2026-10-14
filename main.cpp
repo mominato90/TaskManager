@@ -13,6 +13,7 @@ int main()
     EditTask();
 
     DeleteTask();
+    FindTask();
 
 
     return 0;
