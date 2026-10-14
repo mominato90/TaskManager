@@ -22,3 +22,8 @@ void DeleteTask()
 {
     cout << "Task deleted successfully." << endl;
 }
+
+void FindTask()
+{
+    cout << "Task Find successfully." << endl;
+}
